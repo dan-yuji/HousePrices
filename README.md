@@ -13,4 +13,4 @@ Esse repositório foi feito para explicar o projeto do Kaggle:
 - Selecionamos a Regressão linear por te sido o algoritmo com menor erro quadrático médio
 - Importamos o dataset de teste e fizemos os mesmos tratamentos anteriores
 - O resultado obtido foi:
-<img src=''https://github.com/dan-yuji/HousePrices/tree/main/imagens.png'' />
+<img src="https://github.com/dan-yuji/HousePrices/blob/main/imagens/Captura%20de%20tela%202025-01-14%20011537.png" />
