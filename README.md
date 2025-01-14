@@ -14,7 +14,5 @@ Esse repositório foi feito para explicar o projeto do Kaggle:
 - Importamos o dataset de teste e fizemos os mesmos tratamentos anteriores
 - O resultado obtido foi:
 <img src="https://github.com/dan-yuji/HousePrices/blob/main/imagens/Captura%20de%20tela%202025-01-14%20011537.png" />
-
 - O arquivo utilizado está disponível nesse mesmo repositório através do link:
- https://github.com/dan-yuji/HousePrices/blob/main/Projeto_real_para_portifolio.ipynb
- 
+  https://github.com/dan-yuji/HousePrices/blob/main/Projeto_real_para_portifolio.ipynb
