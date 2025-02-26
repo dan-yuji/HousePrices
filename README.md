@@ -1,7 +1,7 @@
 # HousePrices
 Esse repositório foi feito para explicar o projeto do Kaggle:
 
-## Etapa 1: Primeiro modelo
+## [Etapa 1: Primeiro modelo](https://github.com/dan-yuji/HousePrices/blob/main/Etapa1.ipynb)
 - Nesse modelo fizemos:
 - Importamos o dataset de treino e verificamos as informações
 - Verificamos a quantidade de valores vazios e os substituimos por -1
@@ -16,3 +16,4 @@ Esse repositório foi feito para explicar o projeto do Kaggle:
 <img src="https://github.com/dan-yuji/HousePrices/blob/main/imagens/Captura%20de%20tela%202025-01-14%20011537.png" />
 - O arquivo utilizado está disponível nesse mesmo repositório através do link:
   https://github.com/dan-yuji/HousePrices/blob/main/Projeto_real_para_portifolio.ipynb
+- O score público retornado pelo Kaggle foi: 0,25476
