@@ -18,9 +18,9 @@ Esse repositório foi feito para explicar o projeto do Kaggle:
   https://github.com/dan-yuji/HousePrices/blob/main/Projeto_real_para_portifolio.ipynb
 
 ## [Etapa 2 : Tratamento de valores vazios](https://github.com/dan-yuji/HousePrices/blob/main/Etapa2.ipynb)
--Nesta etapa iniciamos o um processo de limpeza dos dados
--Analisamos valores vazios e ausênsia de informações
--Em algumas colunas, valores vazios representavam ausência dos atributos na casa, nesse caso o vazio era uma informação e não poderiamos simplesmente eliminar essas colunas
--Em outros casos onde a informação estava realmente faltando utilizamos tratamento como substituição pela média da coluna, ou pela moda
--Foi utilizado os mesmos modelos da etapa 1: [Etapa2Modelos](https://github.com/dan-yuji/HousePrices/blob/main/Etapa2Modelos.ipynb) 
--O score retornado pelo Kaggle foi: 0,1812
+- Nesta etapa iniciamos o um processo de limpeza dos dados
+- Analisamos valores vazios e ausênsia de informações
+- Em algumas colunas, valores vazios representavam ausência dos atributos na casa, nesse caso o vazio era uma informação e não poderiamos simplesmente eliminar essas colunas
+- Em outros casos onde a informação estava realmente faltando utilizamos tratamento como substituição pela média da coluna, ou pela moda
+- Foi utilizado os mesmos modelos da etapa 1: [Etapa2Modelos](https://github.com/dan-yuji/HousePrices/blob/main/Etapa2Modelos.ipynb) 
+- O score retornado pelo Kaggle foi: 0,1812
